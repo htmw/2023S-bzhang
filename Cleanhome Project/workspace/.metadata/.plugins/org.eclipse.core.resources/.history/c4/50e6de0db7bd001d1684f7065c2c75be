@@ -1,0 +1,78 @@
+{
+  "homeInfo": {
+    "title": "User management",
+    "href": "user.html"
+  },
+  "logoInfo": {
+    "title": "Backend management system",
+    "image": "./__PUBLIC__/images/login/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "系统管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+
+        {
+          "title": "User member management",
+          "href": "user.html",
+          "icon": "fa fa-window-maximize",
+          "target": "_self"
+        },
+
+        {
+          "title": "Service type management",
+          "href": "typesub.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "Service Project Management",
+          "href": "good.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "Merchant Management",
+          "href": "shopmap.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "Order",
+          "href": "bill.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "Statistics",
+          "href": "dashbord.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        }
+        ,
+        {
+          "title": "Information",
+          "href": "notice.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "Coupon",
+          "href": "youhuiquan.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "Feedback",
+          "href": "postsreplay.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
